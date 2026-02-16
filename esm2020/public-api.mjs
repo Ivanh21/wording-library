@@ -1,0 +1,9 @@
+/*
+ * Public API Surface of wording-library
+ */
+export * from './lib/wording-library.service';
+export * from './lib/wording-library.config';
+export * from './lib/wording-custom-loader';
+export * from './lib/wording-library.module';
+export * from './lib/wording-cache.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3dvcmRpbmctbGlicmFyeS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDZCQUE2QixDQUFBO0FBQzNDLGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYyw2QkFBNkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygd29yZGluZy1saWJyYXJ5XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvd29yZGluZy1saWJyYXJ5LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvd29yZGluZy1saWJyYXJ5LmNvbmZpZyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi93b3JkaW5nLWN1c3RvbS1sb2FkZXInXG5leHBvcnQgKiBmcm9tICcuL2xpYi93b3JkaW5nLWxpYnJhcnkubW9kdWxlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3dvcmRpbmctY2FjaGUuc2VydmljZSc7XG4iXX0=
